@@ -7,13 +7,11 @@
 "apps": [
 {
 "name": "Pocket Poster",
-"bundleIdentifier": "com.lemin.Pocket-Poster
+"bundleIdentifier": "com.lemin.Pocket-Poster"
 "developerName": "leminlimez",
 "downloadURL": "https://dnull.xyz/latest_bs_i",
 "subtitle": "Custom PosterBoard Wallpapers for iOS 17+",
-"localizedDescription": "Custom PosterBoard animated wallpapers for iOS 17.0+
-
-Community-made wallpapers can be found on the offical Cowabun.ga site. Join the Cowabunga Discord Server for additional help.",
+"localizedDescription": "Custom PosterBoard animated wallpapers for iOS 17.0+ Community-made wallpapers can be found on the offical Cowabun.ga site. Join the Cowabunga Discord Server for additional help.",
 "iconURL": "https://nulls.gg/assets/img/nb-icon.png",
 "tintColor": "f5365c",
 "version": "Latest"
