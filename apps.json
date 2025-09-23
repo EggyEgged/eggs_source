@@ -1,45 +1,45 @@
 {
-"name": "Egg's Source",
-"identifier": "com.eggs.source",
-"description": "for when i get revoked",
-"iconURL": "https://png.pngtree.com/png-clipart/20190906/original/pngtree-egg-icon-png-image_4559982.jpg",
-"website": "https://raw.githubusercontent.com/EggyEgged/eggs_source/refs/heads/main/apps.json",
-"apps": [
-{
-"name": "Pocket Poster",
-"bundleIdentifier": "com.lemin.Pocket-Poster"
-"developerName": "leminlimez",
-"downloadURL": "https://dnull.xyz/latest_bs_i",
-"subtitle": "Custom PosterBoard Wallpapers for iOS 17+",
-"localizedDescription": "Custom PosterBoard animated wallpapers for iOS 17.0+ Community-made wallpapers can be found on the offical Cowabun.ga site. Join the Cowabunga Discord Server for additional help.",
-"iconURL": "https://nulls.gg/assets/img/nb-icon.png",
-"tintColor": "f5365c",
-"size": 676496268,
-"version": "Latest"
-},
-{
-"name": "Null's Clash",
-"bundleIdentifier": "nt.nc.ios",
-"developerName": "daniillnull",
-"downloadURL": "https://dnull.xyz/latest_coc_i",
-"subtitle": "Clash of Clans private server with unlimited resources.",
-"localizedDescription": "Null's Clash is your dream! You can build huge base and attack others with any troops you want.",
-"iconURL": "https://nulls.gg/assets/img/nc-icon.png",
-"tintColor": "fb6340",
-"size": 306933054,
-"version": "Latest"
-},
-{
-"name": "Null's Royale",
-"bundleIdentifier": "nt.nr.ios",
-"developerName": "daniillnull",
-"downloadURL": "https://dnull.xyz/latest_cr_i",
-"subtitle": "Clash Royale private server with unlimited gems, gold and modded cards.",
-"localizedDescription": "Have you heard about the most ridiculous duel in Clash Royale? They are even more ridiculous now. Secret Bags with 150K cards are included.",
-"iconURL": "https://nulls.gg/assets/img/nr-icon.png",
-"tintColor": "11cdef",
-"size": 651967467,
-"version": "Latest"
-}
-]
-}
+    "name": "Null's Servers",
+    "identifier": "com.nulls.servers",
+    "description": "Null's — one of the most popular private servers for Brawl, Clash, Royale and other!",
+    "iconURL": "https://nulls.gg/assets/img/logo.png",
+    "website": "https://nulls.gg",
+    "apps": [
+      {
+        "name": "Null's Brawl",
+        "bundleIdentifier": "nt.nb.ios",
+        "developerName": "daniillnull",
+        "downloadURL": "https://dnull.xyz/latest_bs_i",
+        "subtitle": "Brawl Starts private server with unlimited gems, gold and boxes.",
+        "localizedDescription": "Null's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.",
+        "iconURL": "https://nulls.gg/assets/img/nb-icon.png",
+        "tintColor": "f5365c",
+        "size": 676496268,
+        "version": "Latest"
+      },
+      {
+        "name": "Null's Clash",
+        "bundleIdentifier": "nt.nc.ios",
+        "developerName": "daniillnull",
+        "downloadURL": "https://dnull.xyz/latest_coc_i",
+        "subtitle": "Clash of Clans private server with unlimited resources.",
+        "localizedDescription": "Null's Clash is your dream! You can build huge base and attack others with any troops you want.",
+        "iconURL": "https://nulls.gg/assets/img/nc-icon.png",
+        "tintColor": "fb6340",
+        "size": 306933054,
+        "version": "Latest"
+      },
+      {
+        "name": "Null's Royale",
+        "bundleIdentifier": "nt.nr.ios",
+        "developerName": "daniillnull",
+        "downloadURL": "https://dnull.xyz/latest_cr_i",
+        "subtitle": "Clash Royale private server with unlimited gems, gold and modded cards.",
+        "localizedDescription": "Have you heard about the most ridiculous duel in Clash Royale? They are even more ridiculous now. Secret Bags with 150K cards are included.",
+        "iconURL": "https://nulls.gg/assets/img/nr-icon.png",
+        "tintColor": "11cdef",
+        "size": 651967467,
+        "version": "Latest"
+      }
+    ]
+  }
