@@ -1,18 +1,18 @@
 {
     "name": "Egg's Source",
     "identifier": "com.eggs.source",
-    "description": "Null's — one of the most popular private servers for Brawl, Clash, Royale and other!",
-    "iconURL": "https://nulls.gg/assets/img/logo.png",
-    "website": "https://nulls.gg",
+    "description": "incase i get revoked",
+    "iconURL": "https://png.pngtree.com/png-clipart/20190906/original/pngtree-egg-icon-png-image_4559982.jpg",
+    "website": "https://github.com/EggyEgged/eggs_source/tree/main",
     "apps": [
       {
-        "name": "Null's Brawl",
-        "bundleIdentifier": "nt.nb.ios",
-        "developerName": "daniillnull",
-        "downloadURL": "https://dnull.xyz/latest_bs_i",
-        "subtitle": "Brawl Starts private server with unlimited gems, gold and boxes.",
-        "localizedDescription": "Null's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.",
-        "iconURL": "https://nulls.gg/assets/img/nb-icon.png",
+        "name": "Pocket Poster",
+        "bundleIdentifier": "com.lemin.Pocket-Poster",
+        "developerName": "leminlimez",
+        "downloadURL": "https://drive.google.com/uc?export=download&id=1QPlKDZ0aKPVk9n9GvBm7irJWogP-8A0Q",
+        "subtitle": "Custom PosterBoard Wallpapers for iOS 17+",
+        "localizedDescription": "Custom PosterBoard Wallpapers for iOS 17+",
+        "iconURL": "",
         "tintColor": "f5365c",
         "size": 676496268,
         "version": "Latest"
