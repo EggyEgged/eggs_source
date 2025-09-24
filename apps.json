@@ -18,16 +18,16 @@
         "version": "3.0"
       },
       {
-        "name": "Folium",
-        "bundleIdentifier": "nt.nc.ios",
-        "developerName": "daniillnull",
-        "downloadURL": "https://dnull.xyz/latest_coc_i",
-        "subtitle": "Clash of Clans private server with unlimited resources.",
-        "localizedDescription": "Null's Clash is your dream! You can build huge base and attack others with any troops you want.",
-        "iconURL": "https://nulls.gg/assets/img/nc-icon.png",
+        "name": "Aidoku",
+        "bundleIdentifier": "app.aidoku.Aidoku",
+        "developerName": "Skitty",
+        "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.7.1/Aidoku.ipa",
+        "subtitle": "Free and open source manga reader for iOS and iPadOS",
+        "localizedDescription": "Free and open source manga reader for iOS and iPadOS",
+        "iconURL": "https://png.pngtree.com/png-clipart/20190906/original/pngtree-egg-icon-png-image_4559982.jpg",
         "tintColor": "fb6340",
-        "size": 306933054,
-        "version": "Latest"
+        "size": 5242880,
+        "version": "0.7.1"
       },
       {
         "name": "Null's Royale",
